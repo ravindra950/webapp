@@ -1,0 +1,53 @@
+.add-task-form {
+    margin-bottom: 20px;
+  }
+  
+  .add-task-form input {
+    padding: 8px;
+    margin-right: 10px;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .add-task-form button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-task-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .column {
+    flex: 1;
+    margin: 8px;
+    padding: 16px;
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+  }
+  
+  .task {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .delete-button {
+    background: none;
+    border: none;
+    color: red;
+    cursor: pointer;
+  }
+  .h1{
+ align-items: center;
+  }
